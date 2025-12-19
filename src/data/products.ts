@@ -53,7 +53,7 @@ export const products: Product[] = [
     nome: "Cropped Basic Ribana",
     preco: 49.90,
     categoria: "Promo",
-    imagem: "https://images.unsplash.com/photo-1485968579169-a6b439f9fa8b?w=500&h=600&fit=crop",
+    imagem: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=600&fit=crop",
     descricao: "Cropped básico em ribana com manga curta e gola redonda."
   },
   {
@@ -61,7 +61,7 @@ export const products: Product[] = [
     nome: "Saia Midi Plissada",
     preco: 129.90,
     categoria: "Mais vendidos",
-    imagem: "https://images.unsplash.com/photo-1583496661160-fb5886a0uj2d?w=500&h=600&fit=crop",
+    imagem: "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=500&h=600&fit=crop",
     descricao: "Saia midi plissada em tecido leve com cós elástico."
   },
   {
